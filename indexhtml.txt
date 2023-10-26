@@ -5,5 +5,9 @@ git n'est pas bon
 
 git est genial
 Creation et branchement sur branche1
+
 Changement a prtir du local
+
+Changement a partir du depot distant
+
 
